@@ -160,7 +160,10 @@ nav > ul > li > a:hover{
 
 /* FOOTER */
 footer{
-    background-color: #8801fe;
-    height: 50px; /* to be deleted */
+    text-align: center;
+}
+
+.heart{
+    color: red;
 }
 
